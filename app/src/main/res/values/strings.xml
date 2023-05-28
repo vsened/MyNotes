@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MyNotes</string>
+    <string name="title_radio_button_label">Title</string>
+    <string name="color_radio_button_label">Color</string>
+    <string name="date_radio_button_label">Date</string>
+    <string name="ascending_radio_button_label">Ascending</string>
+    <string name="descending_radio_button_label">Descending</string>
+
+
 </resources>

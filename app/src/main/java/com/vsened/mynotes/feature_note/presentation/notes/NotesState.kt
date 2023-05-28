@@ -1,6 +1,7 @@
 package com.vsened.mynotes.feature_note.presentation.notes
 
-import android.provider.ContactsContract.CommonDataKinds.Note
+
+import com.vsened.mynotes.feature_note.domain.model.Note
 import com.vsened.mynotes.feature_note.domain.util.NoteOrder
 import com.vsened.mynotes.feature_note.domain.util.OrderType
 
@@ -9,4 +10,4 @@ data class NotesState(
     val noteOrder: NoteOrder = NoteOrder.Date(OrderType.Descending),
     val isOrderSelectionVisible: Boolean = false,
 
-)
+    )

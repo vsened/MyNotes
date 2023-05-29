@@ -94,7 +94,7 @@ fun NoteItem(
             IconButton(
                 onClick = onDeleteClick,
                 modifier = Modifier
-                    .align(Alignment.BottomEnd)
+                    .align(Alignment.End)
             ) {
                 Icon(
                     imageVector = Icons.Default.Delete,

@@ -1,10 +1,16 @@
 <resources>
     <string name="app_name">MyNotes</string>
-    <string name="title_radio_button_label">Title</string>
-    <string name="color_radio_button_label">Color</string>
-    <string name="date_radio_button_label">Date</string>
-    <string name="ascending_radio_button_label">Ascending</string>
-    <string name="descending_radio_button_label">Descending</string>
+
+    <!-- Labels -->
+    <string name="label_title_radio_button">Title</string>
+    <string name="label_color_radio_button">Color</string>
+    <string name="label_date_radio_button">Date</string>
+    <string name="label_ascending_radio_button">Ascending</string>
+    <string name="label_descending_radio_button">Descending</string>
+
+    <!--  Images descriptions  -->
+    <string name="desc_delete_note_icon">Delete note</string>
+
 
 
 </resources>
